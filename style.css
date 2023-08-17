@@ -1,0 +1,53 @@
+.wrapper{
+    display: flex ;
+    gap: 53px;
+}
+
+img {
+    width: 389px;
+    height: 432px;
+
+}
+.right{
+    width: 778px;
+}
+.header{
+    color: #FFFFFF;
+    font-size: 64px;
+    margin-top: 18px;   
+}
+body{
+    background-color: #000000;
+    font-family: 'DM Sans';
+}
+.tips{
+    background-color: #191919;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 6px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.episode{
+    font: size 18px;
+    color: #118DA8 ;
+    margin-top: 48px;   
+}
+.paragraph{
+    font-size: 22px;
+    color: #FFFFFFB2;
+    margin-top: 28px;
+}
+button{
+    margin-top: 28px;
+    color: #FFFFFF;
+    font-size: 18px;
+    background-color: #118DA8;
+    border-radius: 6px;
+    padding: 12px 20px;
+
+}
+
+button:hover {
+    cursor: pointer;
+}
